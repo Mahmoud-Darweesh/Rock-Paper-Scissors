@@ -10,6 +10,17 @@ Play a game of Rock Paper Scissors with the computer using a camera!
   When I started reading about machine learning I understood the idea that I had to teach the computer using an already existing set of data. With the amount of given data being directly proportional to the accuracy of the program. So with that in mind I began by taking photos of myself doing rock paper and scissors then running it through the algorithm to generate a model that I can use. I was happy with the result. It wasn't perfectly accurate but for a first try it was good. I came back to it the next day with many ideas of ways I could use it but to my surprise it became less accurate, although I hadn’t changed anything yet, and then it hit me I only put images of myself with the same t-shirt in the same place. Realising this I knew I couldn’t just keep taking more pictures because there had to be a better way to do it.
 
 
+##### First Version With Original Shirt:
+
+https://user-images.githubusercontent.com/95291720/148114487-ce19c736-2c9b-44fe-9a6c-101a4361d171.mp4   
+
+##### First Version With Diffrent Shirt:
+
+https://user-images.githubusercontent.com/95291720/148114516-371efa9a-40fb-495a-bc12-b3c2043c49b4.mp4
+
+The video that used a different shirt than the one used to train the model was less accurate than the one that used the original shirt, although the background was the same.
+
+
 ## The Improved version:
 
   ##### The Challenge:
@@ -59,14 +70,17 @@ Play a game of Rock Paper Scissors with the computer using a camera!
   ##### The Game:
 
   The game starts by showing images of rock paper then scissors, after that it waits for the player to start moving and mimics his gesture so if he puts rock it shows an image of rock and if he does paper it shows an image of paper and so on.
+  
+  ##### Example:
 
+https://user-images.githubusercontent.com/95291720/148115731-ceaeca91-4eee-448c-a334-6545e2367d02.mp4
 
 ## The Future version:
 
 
   ##### The Introduction:
 
-  One of the things that excite me about attending MIT is that I get access to amazing resources like the ProtoWorkshop where I could try to build my wildest ideas. One of these ideas is to transform my rock paper scissors game from only working on a computer to a mechanical arm that can move on its own. Although its first application would be to play a game, the possibilities for reforming its a more useful tool is endless. An example of that could be to make home appliances react to hand gestures not voice commands since deaf people can’t use voice commands.
+  One of the things that excite me about attending MIT is that I get access to amazing resources like the ProtoWorkshop where I could try to build my wildest ideas. One of these ideas is to transform my rock paper scissors game from only working on a computer to a mechanical arm that can move on its own. Although its first application would be to play a game, the possibilities for reforming into a more useful tool is endless. An example of that could be to make home appliances react to hand gestures not voice commands since deaf people can’t use voice commands.
 
   ##### The Setup: 
 
