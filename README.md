@@ -80,7 +80,7 @@ https://user-images.githubusercontent.com/95291720/148115731-ceaeca91-4eee-448c-
 
   ##### The Introduction:
 
-  One of the things that excite me about attending MIT is that I get access to amazing resources like the ProtoWorkshop where I could try to build my wildest ideas. One of these ideas is to transform my rock paper scissors game from only working on a computer to a mechanical arm that can move on its own. Although its first application would be to play a game, the possibilities for reforming into a more useful tool is endless. An example of that could be to make home appliances react to hand gestures not voice commands since deaf people can’t use voice commands.
+  One of the things that excite me about this project is that I can morph it into many other ideas. One of these ideas is to transform my rock paper scissors game from only working on a computer to a mechanical arm that can move on its own. Although its first application would be to play a game, the possibilities for reforming into a more useful tool is endless. An example of that could be to make home appliances react to hand gestures not voice commands since deaf people can’t use voice commands.
 
   ##### The Setup: 
 
